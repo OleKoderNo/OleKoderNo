@@ -16,6 +16,53 @@
 
 ---
 
+# 🗺️ Developer Journey
+
+```text
+2022 ────────●────────●────────●────────● 2026
+ Start      Course    Intern    TechLead   Diploma
+```
+
+**2022 — The Journey Begins**
+
+Started learning programming through a development course and discovered a passion for frontend development and accessible web design.
+
+**Internship Experience**
+
+Worked in real development environments using:
+
+* ReactJS
+* NextJS
+* Tailwind CSS
+* Sanity CMS
+
+During this period I contributed to **multiple deployed websites** and gained real industry experience.
+
+**Tech Lead Experience**
+
+During my first internship I took on the responsibility of **Tech Lead**, helping coordinate development work and collaborate with the team.
+
+**2025–2027 — Frontend Development Diploma**
+
+Returned to school to pursue a **2-year diploma in Frontend Development**, continuing to expand skills in modern frameworks and accessibility.
+
+---
+
+# ⚔️ Skill Stats
+
+```text
+Accessibility            ███████████
+Frontend Craft           █████████░░
+UI Engineering           █████████░░
+Problem Solving          █████████░░
+Bug Hunting              ███████░░░░
+Learning Speed           ███████░░░░
+Team Collaboration       ███████████
+Mentoring / Teaching     █████████░░
+```
+
+---
+
 # 🌳 Skill Trees
 
 ## ♿ Accessibility Tree
@@ -85,7 +132,7 @@ Docker █░░░░░░░░░
 
 ---
 
-# ⚔️ Core Abilities
+# 🧠 Core Abilities
 
 ```text
 Semantic Strike
@@ -130,3 +177,17 @@ Programming custom stream overlays
 Maintaining a Pokémon shiny hunt counter
 Completing a Frontend Development diploma
 ```
+
+---
+
+# 🏆 Achievements
+
+```text
+Tech Lead during first internship
+Worked on multiple deployed websites
+Universal Design Certificate
+```
+
+---
+
+Exploring the open web — one accessible interface at a time.
