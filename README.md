@@ -179,7 +179,6 @@ Completing a Frontend Development diploma
 # 🏆 Achievements
 
 ```text
-Tech Lead during first internship
 Worked on multiple deployed websites
 Universal Design Certificate
 ```
