@@ -1,5 +1,6 @@
 # 🛡️ Developer Character Card
 
+```text
 ╔══════════════════════════════════════╗
            OLEKODERNO
      Web Accessibility Guardian
@@ -11,6 +12,7 @@
  Mission       : Make the web accessible
                  for everyone
 ╚══════════════════════════════════════╝
+```
 
 ---
 
