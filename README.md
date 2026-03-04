@@ -20,7 +20,7 @@
 
 ```text
 2022 ────────●────────●────────●────────● 2026
- Start      Course    Intern    TechLead   Diploma
+ Start      Course    Intern   Diploma
 ```
 
 **2022 — The Journey Begins**
@@ -36,11 +36,7 @@ Worked in real development environments using:
 * Tailwind CSS
 * Sanity CMS
 
-During this period I contributed to **multiple deployed websites** and gained real industry experience.
-
-**Tech Lead Experience**
-
-During my first internship I took on the responsibility of **Tech Lead**, helping coordinate development work and collaborate with the team.
+During this period I contributed to **multiple deployed websites** and gained practical industry experience working in a team.
 
 **2025–2027 — Frontend Development Diploma**
 
